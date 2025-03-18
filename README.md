@@ -13,6 +13,6 @@ Python script wrapper for GraphQL query to parse organization(s) for members and
 Accepts an arbitrary number (greater than zero) of API keys as arguments and formats output nicely by org.
 
 ## Acknowledgements
-Harpreet for the initial script and (most improtably) the GraphQL query that makes this go
-Adé Mochtar for suggesting this approach
+Harpreet for the initial script and (most improtably) the GraphQL query that makes this go  
+Adé Mochtar for suggesting this approach  
 Josh Clough for his guidance on getting this done
